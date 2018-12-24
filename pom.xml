@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>mvnrelease1</id>
-			<url>http://localhost:8081/nexus/content/repositories/mvnrelease1/</url>
+			<id>mnrelse</id>
+			<url>http://localhost:8081/nexus/content/repositories/mnrelse/</url>
 		</repository>
 		<snapshotRepository>
-			<id>mvnsnap</id>
-			<url>http://localhost:8081/nexus/content/repositories/mvnsnap/</url>
+			<id>mnsnap</id>
+			<url>http://localhost:8081/nexus/content/repositories/mnsnap/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
